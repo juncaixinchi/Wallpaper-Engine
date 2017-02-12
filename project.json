@@ -1,0 +1,38 @@
+{
+	"description" : "以FGO 师匠为背景，鼠标移动可产生粒子效果，可自定义粒子大小、自定义背景图片。",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"customimage" : 
+			{
+				"text" : "自定义壁纸",
+				"type" : "file",
+				"value" : null
+			},
+			"customint" : 
+			{
+				"max" : 60,
+				"min" : 0,
+				"text" : "User slider",
+				"type" : "slider",
+				"value" : 20
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.56 0.31 0.58"
+			}
+		}
+	},
+	"monetization" : false,
+	"preview" : "preview.jpg",
+	"tags" : [ "Anime" ],
+	"title" : "FGO 师匠",
+	"type" : "web",
+	"visibility" : "public",
+	"workshopid" : 861750235
+}
